@@ -5,7 +5,7 @@
 
 ## statement
 
-Prefuse is a Java-based toolkit for building interactive information visualization applications. It was developed until 2007 by its original author, [Jeffrey Heer](http://homes.cs.washington.edu/~jheer/). Prefuse is licensed under the terms of a [BSD license](http://github.com/Sciss/Prefuse/blob/master/licenses/Prefuse-License.txt) and can be freely used for both commercial and non-commercial purposes. The original website is at [prefuse.org](http://prefuse.org/).
+Prefuse is a Java-based toolkit for building interactive information visualization applications. It was developed until 2007 by its original author, [Jeffrey Heer](http://homes.cs.washington.edu/~jheer/). Prefuse is licensed under the terms of a [BSD license](http://github.com/Sciss/Prefuse/blob/master/licenses/Prefuse-License.txt) and can be freely used for both commercial and non-commercial purposes. The original website was at [prefuse.org](https://web.archive.org/web/20181226190156/http://prefuse.org/).
 
 This project at [GitHub](http://github.com/Sciss/Prefuse) is a fork by Hanns Holger Rutz which aims at providing easy maven access for several projects which depend on Prefuse. All changes are released under the same original license.
 
